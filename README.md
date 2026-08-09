@@ -1,6 +1,6 @@
 # Hi, I'm Do Duy Dung 👋
 
-### Software Engineering | Applied AI
+### Software Engineering 
 
 Software Engineering graduate from FPT University with a strong foundation in software development and practical experience in enterprise systems.
 
