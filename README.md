@@ -64,7 +64,7 @@ Java web application for Vietnamese history learning with database integration, 
 **FPT University**  
 Bachelor of Software Engineering
 
-**GPA: 3.62 / 4.0**
+**GPA: 4.0 / 4.0**
 
 ---
 
