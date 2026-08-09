@@ -1,4 +1,4 @@
-# Hi, I'm Duy Dung Do 👋
+# Hi, I'm Do Duy Dung 👋
 
 ### Software Engineering | Applied AI
 
