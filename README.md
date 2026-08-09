@@ -70,10 +70,11 @@ Bachelor of Software Engineering
 
 ## 🌐 Portfolio
 
-[View my portfolio](https://do-duy-dung-portfolio.vercel.app/)
+<a href="https://do-duy-dung-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">View my portfolio</a>
 
 ---
 
 ## 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/duy-dung-do-ba745b339/) · [Email](mailto:doduydung2611@gmail.com)
+<a href="https://www.linkedin.com/in/duy-dung-do-ba745b339/" target="_blank" rel="noopener noreferrer">LinkedIn</a> · <a href="mailto:doduydung2611@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
+
